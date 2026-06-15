@@ -122,18 +122,6 @@ No additional dependencies required.
 
 ---
 
-## 🌟 Future Enhancements
-
-- Dark Mode
-- Sound Effects
-- Leaderboard System
-- Category-Based Quizzes
-- User Profiles
-- Online Multiplayer Mode
-- Database Integration
-
----
-
 ## 💡 Motivation
 
 > Think Fast. Answer Smart. 🏆
