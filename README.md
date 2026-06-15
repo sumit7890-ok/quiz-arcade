@@ -1,5 +1,5 @@
 # 🏆 Quiz Arcade
-
+![Quiz Arcade](assets/quiz-preview.png)
 A modern retro-themed quiz application built using HTML, CSS, and JavaScript.
 
 Test your knowledge, challenge yourself, and track your performance through an interactive and visually appealing quiz experience.
