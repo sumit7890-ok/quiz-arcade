@@ -148,4 +148,7 @@ GitHub: https://github.com/sumit7890-ok
 
 Created with HTML, CSS & JavaScript.
 
+## 🎮 Live Demo
+
+👉 [Play Quiz Arcade](https://sumit7890-ok.github.io/quiz-arcade/)
 Made with ❤️ for learning and fun.
